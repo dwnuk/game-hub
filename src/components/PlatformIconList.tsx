@@ -28,7 +28,6 @@ const PlatformIconList = ({ platforms }: Props) => {
         android: FaAndroid,
         ios: MdPhoneIphone,
         web: BsGlobe
-
     }
 
   return (
